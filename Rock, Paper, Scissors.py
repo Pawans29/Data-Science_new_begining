@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[2]:
-
-
 import random ## random is use to randomise computers action
-
-
-# In[ ]:
 
 
 # Print multiline instruction
@@ -44,34 +37,3 @@ while True:
         play_again = input("Play again? (y/n): ")
         if play_again.lower() != "y":
             break
-
-
-# In[8]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
